@@ -13,9 +13,11 @@
 | 7     | Variational AutoEncoder to create indian CARS                | [Variational AutoEncoder](https://github.com/EVA4-RS-Group/Phase2/blob/master/S7_Variational_AutoEncoders/README.md)  | http://rsgroup.s3-website.ap-south-1.amazonaws.com/week7-variational-auto-encoder-indian-car-generation.html
 | 8     | Super Resolution GAN                                         | [Super Resolution GAN](https://github.com/EVA4-RS-Group/Phase2/blob/master/S8/SR_GAN/readme.md) | http://rsgroup.s3-website.ap-south-1.amazonaws.com/week8-super-resolution-gan.html
 | 9     | Neural Style Transfer                                        | [Neural Style Transfer](https://github.com/EVA4-RS-Group/Phase2/blob/master/S8/StyleTransfer/readme.md) | http://rsgroup.s3-website.ap-south-1.amazonaws.com/week8-neural-style-transfer.html
-
-
-
+| 10    | Neural embedding Sentiment Analysis                          | [Sentiment Analysis](https://github.com/EVA4-RS-Group/Phase2/blob/master/S9_NeuralEmbedding/README.md) | http://rsgroup.s3-website.ap-south-1.amazonaws.com/week9-sentiment-analysis.html
+| 11    | GRU, Attention Mechanism & Transformers                      | [German to English Translation](https://github.com/EVA4-RS-Group/Phase2/blob/master/S11/README.md) | http://rsgroup.s3-website.ap-south-1.amazonaws.com/week11-german-to-english-translation.html
+| 12    | Image Captioning & Text to Images                            | [Image Captioning](https://github.com/EVA4-RS-Group/Phase2/blob/master/S12_ImageCaptioning/README.md) | http://rsgroup.s3-website.ap-south-1.amazonaws.com/week-12-image-captioning.html
+| 13    | AI for Sound- Speech Recognition                             | [Speech Recognition](https://github.com/EVA4-RS-Group/Phase2/blob/master/S13_SpeechRecognition/README.md) | http://rsgroup.s3-website.ap-south-1.amazonaws.com/week-13-speech-recognition.html
+| 14    | Monocular Depth estimation                                   | [Monocular Depth estimation](https://github.com/DrVenkataRajeshKumar/S15/blob/master/README.md) |
 
 
 
