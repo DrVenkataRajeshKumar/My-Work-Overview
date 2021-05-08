@@ -20,7 +20,8 @@
 | 14    | Monocular Depth estimation                                   | [Monocular Depth estimation](https://github.com/DrVenkataRajeshKumar/S15/blob/master/README.md) | https://github.com/DrVenkataRajeshKumar/S15/blob/master/S15Final.ipynb
 | 15    | Object detection with YOLO-V3                                | [Object detection: YOLO-V3](https://github.com/DrVenkataRajeshKumar/S13/blob/master/README.md) | https://github.com/DrVenkataRajeshKumar/S13/blob/master/S13A.ipynb
 | 16    | Training Custom Dataset on Colab for YoloV3                  | [Dragon annotation YOLO-V3](https://github.com/DrVenkataRajeshKumar/S13/blob/master/README.md) | 1: https://youtu.be/0S0jHnvjpyg         2: https://youtu.be/5kuT27tBJ38         3: https://youtu.be/mFICwUbCcfI
-| 17    | implementing One cycle polocy on tiny imagenet               | [implementing One cycle polocy] |https://github.com/DrVenkataRajeshKumar/S12/blob/master/S12Final.ipynb
 
+
+| 17*   | Chest X-Ray Medical Diagnosis with Deep Learning             |  | https://github.com/DrVenkataRajeshKumar/AI-in-Medical-Field/blob/master/OPG_Classification/ChestX-RayDiagnosis.ipynb
 
 
