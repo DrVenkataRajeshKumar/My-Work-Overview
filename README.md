@@ -19,7 +19,7 @@
 | 13    | AI for Sound- Speech Recognition                             | [Speech Recognition](https://github.com/EVA4-RS-Group/Phase2/blob/master/S13_SpeechRecognition/README.md) | http://rsgroup.s3-website.ap-south-1.amazonaws.com/week-13-speech-recognition.html
 | 14    | Monocular Depth estimation                                   | [Monocular Depth estimation](https://github.com/DrVenkataRajeshKumar/S15/blob/master/README.md) | https://github.com/DrVenkataRajeshKumar/S15/blob/master/S15Final.ipynb
 | 15    | Object detection with YOLO-V3                                | [Object detection: YOLO-V3](https://github.com/DrVenkataRajeshKumar/S13/blob/master/README.md) | https://github.com/DrVenkataRajeshKumar/S13/blob/master/S13A.ipynb
-| 16    | Training Custom Dataset on Colab for YoloV3                  | [Dragon annotation YOLO-V3](https://github.com/DrVenkataRajeshKumar/S13/blob/master/README.md) | https://youtu.be/0S0jHnvjpyg         https://youtu.be/5kuT27tBJ38         https://youtu.be/mFICwUbCcfI
+| 16    | Training Custom Dataset on Colab for YoloV3                  | [Dragon annotation YOLO-V3](https://github.com/DrVenkataRajeshKumar/S13/blob/master/README.md) | "1"(https://youtu.be/0S0jHnvjpyg)         https://youtu.be/5kuT27tBJ38         https://youtu.be/mFICwUbCcfI
 
 
 
