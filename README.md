@@ -11,7 +11,7 @@ Deploy a pre-trained PyTorch model - Mobilenet_v2 on AWS Lambda using Serverless
 - Hosted the model at this endpoint : https://fyia7867vd.execute-api.ap-south-1.amazonaws.com/dev/classify
 - Ran for this image: [Yellow-Labrador-Retriever](data/Yellow-Labrador-Retriever.jpg)
 - Response is shown below 
-<img src=api_response_insomnia_snapshots.png>
+<img src=https://github.com/DrVenkataRajeshKumar/My-Work-Overview/blob/main/api_response_insomnia_snapshots.png>
 
 
 ### **Key Highlights**
