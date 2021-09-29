@@ -22,4 +22,5 @@
 | 16    | Training Custom Dataset on Colab for YoloV3                  | [**Dragon annotation YOLO-V3**](https://github.com/DrVenkataRajeshKumar/S13/blob/master/README.md) | 1: **https://youtu.be/0S0jHnvjpyg**         2: **https://youtu.be/5kuT27tBJ38**         3: **https://youtu.be/mFICwUbCcfI**
 | **17**   | **Medical Diagnosis on Chest X-ray images**                        |  | https://github.com/DrVenkataRajeshKumar/AI-in-Medical-Field/blob/master/OPG_Classification/ChestX-RayDiagnosis.ipynb
 | **18**   | **Diagnosis and GradCAM visualization of Dental diagnosis**                             |  | https://github.com/DrVenkataRajeshKumar/AI-in-Medical-Field/blob/master/OPG_Classification/GradCam2.OPG.ipynb
+|  19   | Condyle Classification                                        | [Condyle Classification](https://github.com/DrVenkataRajeshKumar/CondyleClassification) | https://github.com/DrVenkataRajeshKumar/CondyleClassification/blob/main/trail4.ipynb
 
