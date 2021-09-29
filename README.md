@@ -23,4 +23,4 @@
 | **17**   | **Medical Diagnosis on Chest X-ray images**                        |  | https://github.com/DrVenkataRajeshKumar/AI-in-Medical-Field/blob/master/OPG_Classification/ChestX-RayDiagnosis.ipynb
 | **18**   | **Diagnosis and GradCAM visualization of Dental diagnosis**                             |  | https://github.com/DrVenkataRajeshKumar/AI-in-Medical-Field/blob/master/OPG_Classification/GradCam2.OPG.ipynb
 |  19   | Condyle Classification                                        | [Condyle Classification](https://github.com/DrVenkataRajeshKumar/CondyleClassification) | https://github.com/DrVenkataRajeshKumar/CondyleClassification/blob/main/trail4.ipynb
-
+| **20**   | **Face reconstruction and Face recognition                 | [ForensicGAN](https://github.com/DrVenkataRajeshKumar/ForensicGAN) |  |
